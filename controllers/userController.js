@@ -109,8 +109,8 @@ const forgetPassword = async (req, res) => {
         service: "hotmail",
         // port: 2525,
         auth: {
-          user: "",
-          pass: "",
+          user: "raksath7@hotmail.com",
+          pass: "Raksath2309!",
         },
       });
 
